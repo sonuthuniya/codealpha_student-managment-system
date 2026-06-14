@@ -36,11 +36,11 @@ This program allows users to **add, display, search, and delete student records*
 1. **Clone or download** the project.
 2. Compile the program using GCC:
    ```bash
-   gcc main.c -o student-managment-system
+   gcc main.c -o student-managment
 
 3. Run the executable:
      ```bash
-     ./student-managment-system
+     ./student-managment
 
   ---
 
