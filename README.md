@@ -21,11 +21,11 @@ This program allows users to **add, display, search, and delete student records*
 ---
 
 ## 📂 File Structure
-├── students.dat        # Binary file storing student records
+├── students.dat            # Binary file storing student records
 
-├── main.c              # Source code (Student Management System)
+├── main.c                  # Source code (Student Management System)
 
-└── README.md           # Documentation
+└── README.md               # Documentation
 
 ---
 
