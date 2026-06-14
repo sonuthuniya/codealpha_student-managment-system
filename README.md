@@ -67,16 +67,16 @@ Student added successfully.
 ## 📸 Sample Output
 
 ### Add Student
-![Add Student Output](screenshots/add_student.png)
+![Add Student Output](screenshots'add_student.png)
 
 ### Display Students
-![Display Students Output](screenshots/display_students.png)
+![Display Students Output](screenshots'display_students.png)
 
 ### Search Student
-![Search Student Output](screenshots/search_student.png)
+![Search Student Output](screenshots'search_student.png)
 
 ### Delete Student
-![Delete Student Output](screenshots/delete_student.png)
+![Delete Student Output](screenshots'delete_student.png)
 
 
 ---
@@ -93,8 +93,8 @@ Student added successfully.
 
  ---
 
-⚡ Improvements (Future Scope)
-Update student details (edit functionality).
+## ⚡ Improvements (Future Scope)
+ Update student details (edit functionality).
 
 Sort students by marks or age.
 
@@ -102,5 +102,24 @@ Export records to a text/CSV file.
 
 Add password protection for admin access.
 
-👨‍💻 Author
+---
+
+*👨‍💻 Author: Sonu Thuniya*
+
+📅 Internship Task – C PROGRAMMING 
+
+
+---
+## 🙏 Acknowledgement
+
+I would like to express my sincere gratitude to **Code Alpha** for providing me with the valuable opportunity to pursue an internship in **C Programming**.  
+
+This internship has been a significant milestone in my learning journey, allowing me to:
+- Strengthen my understanding of **file handling, structures, and modular programming** in C.
+- Gain practical experience by working on real-world projects such as the **Student Management System**.
+- Enhance my problem-solving skills and improve my ability to write clean, efficient, and well-documented code.
+
+I am truly thankful to the mentors and the entire team at Code Alpha for their guidance, support, and encouragement throughout this internship. Their platform has helped me bridge the gap between academic knowledge and practical application, and I look forward to applying these skills in future projects and professional endeavors.
+
+---
 
